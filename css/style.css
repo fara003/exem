@@ -1,0 +1,117 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 54px;
+}
+.text-box{
+    text-align: center;
+}
+
+.text-box h1{
+    margin-top: 54px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 43px;
+}
+
+.text-box p{
+    margin-top: 23px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #A0A0A0;
+
+}
+
+.text-box h3{
+    margin-top: 26px;
+    margin-bottom: 81px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+}
+
+.int_box img{
+    height: 421px;
+    width: 658px;
+}
+
+.int_box{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.items h2{
+    margin: 48px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+   
+} 
+
+.items p{
+    margin-top: 23px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+}
+
+.text-box2{
+    text-align: center;
+}
+.text-box2 h1{
+    margin-top: 206px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+}
+.text-box2  p{
+    margin-top: 16px ;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    color: #A0A0A0;
+}
+
+.com{
+    display: flex;
+    justify-content: center;
+    margin-top: 94px;
+    gap: 16px;
+}
+
+.laptops_box{
+    display: flex;
+    justify-content: center;
+}
+
+.laptops_box img{
+    width:310px ;
+    height: 434px;
+   
+}
+
+.laptop_items p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    color: #A0A0A0;
+    
+}
+
+
+
+.p2{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    margin-top: 8px;
+}
